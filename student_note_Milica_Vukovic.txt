@@ -1,0 +1,5 @@
+Student: Milica Vukovic
+Date: 09.10.2026.
+Course: Introduction to Git and GitHub
+
+This file was created as part of my GitHub assignment.
